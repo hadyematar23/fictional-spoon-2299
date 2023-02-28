@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+# test
 RSpec.describe 'Recipe show spec' do
   describe "as a visitor" do 
     context "when the user visits '/recipes/:id' aka the show page" do 
